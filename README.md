@@ -24,7 +24,7 @@ Afin de pouvoir faire fonctionner ce projet, vous devrez créer, à la racine du
 ## Résumé matinée
 
 | Commande | Options | Fonction |
-| :------ | :-----: | :------: |
+| :------: | :-----: | :------: |
 | `git init` | | Initialiser un projet Git |
 | `git config user.email` | | Définir l'e-mail de l'utilisateur courant pour Git |
 | `git config user.name` | | Définir le nom de l'utilisateur courant pour Git |
